@@ -1,34 +1,48 @@
-# 🚀 GenAI Learning Roadmap 2026
+# 🚀 Generative AI Resources
 
-Welcome to the GenAI Learning Roadmap repository!
+A curated collection of useful Generative AI roadmaps, tutorials, documentation, tools, and learning resources. This repository aims to make learning Generative AI and AI Engineering easier and more accessible.
 
-This repository contains useful learning resources, roadmaps, tutorials, and practical guides to help developers understand Generative AI and build real-world AI applications.
+## 📚 Learning Roadmaps
 
-## 📚 Learning Resources
+| Resource                   | Description                                     | Link                                                                              |
+| -------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| 100 Days of AI Engineering | A structured roadmap to learn AI Engineering    | [Explore](https://ai-engineer-roadmap-2026.vercel.app/)                           |
+| LLM Fundamentals           | Learn the fundamentals of Large Language Models | [Explore](https://ai-engineer-roadmap-2026.vercel.app/100-days/llm-fundamentals/) |
 
-### 1. 100 Days of AI Engineering
+## 🧠 Important Topics
 
-A structured roadmap covering the fundamentals and practical concepts of AI Engineering.
-
-**Topics include:**
-
-* LLM Fundamentals
-* Tokens and Context Windows
+* Generative AI Fundamentals
+* Large Language Models (LLMs)
 * Prompt Engineering
-* Model Selection
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* LangChain and LangGraph
+* Model Fine-Tuning
 * LLM Evaluation
-* AI Application Development
 
-**Resource:** Add the original roadmap link here.
+## 🛠️ Useful AI Tools
 
-### 🎯 Goal
+| Tool             | Purpose                          | Link                                  |
+| ---------------- | -------------------------------- | ------------------------------------- |
+| Hugging Face     | AI models and datasets           | [Visit](https://huggingface.co/)      |
+| LangChain        | Building LLM applications        | [Visit](https://www.langchain.com/)   |
+| Ollama           | Running LLMs locally             | [Visit](https://ollama.com/)          |
+| Google AI Studio | Experimenting with Gemini models | [Visit](https://aistudio.google.com/) |
+| OpenAI Platform  | AI APIs and model development    | [Visit](https://platform.openai.com/) |
 
-My goal is to explore Generative AI step by step, strengthen my technical knowledge, and develop practical AI engineering skills.
+## 📖 Documentation & Learning
+
+* [Hugging Face Documentation](https://huggingface.co/docs)
+* [LangChain Documentation](https://docs.langchain.com/)
+* [OpenAI Documentation](https://platform.openai.com/docs)
+* [Google AI Documentation](https://ai.google.dev/)
+
+## 🎯 Goal
+
+To build a useful collection of Generative AI resources that helps students, developers, and aspiring AI engineers learn, experiment, and build real-world AI applications.
 
 ## 🤝 Contributions
 
-If you find useful AI learning resources, feel free to contribute and help improve this collection.
+Found a useful AI resource? Feel free to contribute by submitting a pull request.
 
-## ⭐ Support
-
-If you find this repository useful, consider giving it a star!
+If you find this repository helpful, don't forget to give it a ⭐!
