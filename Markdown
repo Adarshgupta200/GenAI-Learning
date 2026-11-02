@@ -1,0 +1,15 @@
+## 🚀 GenAI Learning Resources
+
+### 100 Days of AI Engineering (2026)
+
+A structured roadmap for learning AI Engineering and understanding LLM fundamentals.
+
+- [LLM Fundamentals – Day 1 to Day 6](https://ai-engineer-roadmap-2026.vercel.app/100-days/llm-fundamentals/)
+
+**Topics Covered:**
+- LLM Fundamentals
+- Tokens and Context Windows
+- Prompt Engineering
+- Model Selection
+- LLM Evaluation
+- AI Application Development
