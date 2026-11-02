@@ -1,0 +1,23 @@
+Hi everyone! 👋
+
+I want to share something important that can help you in your AI Engineering journey.
+
+Please check out this resource from CampusX:
+
+🚀 100 Days of AI Engineering
+
+🔗 https://ai-engineer-roadmap-2026.vercel.app/100-days/
+
+It provides a structured learning roadmap covering important topics such as:
+
+LLM Fundamentals
+Building with LLM APIs
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+AI Agents
+Shipping AI Applications to Production
+I will also share more useful links and learning resources related to AI Engineering in the coming days.
+
+Please explore these materials and make good use of them. I hope these resources will help you understand AI Engineering concepts, improve your practical knowledge, and build real-world projects.
+
+Keep learning and keep building! 🚀
